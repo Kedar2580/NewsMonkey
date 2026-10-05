@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gerrit De Vynck, Miriam Waldvogel",
+      "title": "The volunteer internet sleuths hunting down rogue AI agents - The Washington Post",
+      "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.",
+      "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
+      "publishedAt": "2026-10-02T12:36:12Z",
+      "content": "SAN FRANCISCO Selena Zhang had a hunch.\r\nOpenAI, the maker of ChatGPT, had recently disclosed astonishing details about how its artificial intelligence agents had broken out of their systems, hacked … [+154 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "wsj.com",
+      "title": "Jobs Report Today: Bond Market Steadies as Investors Await Employment Data — Live Updates - wsj.com",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Burger King is betting on local franchisees to fuel its U.S. comeback - CNBC",
+      "description": "Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators.",
+      "url": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346884-1786133357383-gettyimages-2274828794-_73a1058_97frlf1o.jpeg?v=1786134020&w=1920&h=1080",
+      "publishedAt": "2026-10-02T11:00:01Z",
+      "content": "A car goes through the drive-thru at a Burger King restaurant on May 6, 2026 in Burbank, California. \r\nWhen Jeremy Kline was 15, he started as a crew member at Taco Bell. In the decades since then, h… [+10865 chars]"
+    }
+  ]
+}
